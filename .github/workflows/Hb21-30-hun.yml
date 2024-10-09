@@ -48,18 +48,18 @@ jobs:
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_bd3BSGZp7n6fMNqyFzrUgCbFJRY0/v5ewU5BcAc
       - name: hb27 Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_bd3BSGZp7n6fMNqyFzrUgCbFJRY0/v5ewU5BcAc
-      - name: Run hb18 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_J4S68ASKdS6PxxylY3AOgnPUKSW2/bzC5jHNP7E
-      - name: Run hb18 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_J4S68ASKdS6PxxylY3AOgnPUKSW2/bzC5jHNP7E
-      - name: hb19 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_MI51VXxIm3aMuXlneoWDUSzF9DB8/MKbmyzfw2m
-      - name: hb19 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_MI51VXxIm3aMuXlneoWDUSzF9DB8/MKbmyzfw2m
-      - name: hb20 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_xfru6zf03x0XExarzQW8mSqF1lTk/tRzuQiXZ0L
-      - name: hb20 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_xfru6zf03x0XExarzQW8mSqF1lTk/tRzuQiXZ0L
+      - name: Run hb28 a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_3vOdFS03juX0oVbcUhEVyyOFltqQ/ky9a0cg7PH
+      - name: Run hb28 a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_3vOdFS03juX0oVbcUhEVyyOFltqQ/ky9a0cg7PH
+      - name: hb29 Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_LvqhCjk2g5SRhIERXUcGAnGBQLxz/w06mJnmGLQ
+      - name: hb29 Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_LvqhCjk2g5SRhIERXUcGAnGBQLxz/w06mJnmGLQ
+      - name: hb30 Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_kdG2Mw3Cnxg91PelP6VgVW0qz2Ye/iGanNzDUsw
+      - name: hb30 Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_kdG2Mw3Cnxg91PelP6VgVW0qz2Ye/iGanNzDUsw
 
 
         
