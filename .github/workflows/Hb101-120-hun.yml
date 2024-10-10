@@ -94,10 +94,10 @@ jobs:
       - name: Run hb118 a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_iQRw8F5Il49VoRIBRKRJvI7K24gZ/X5e8A66kuL
       - name: hb119 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_uqx6A0APn1LpT6Sxk33J4Wvqxhb4/7rSYa0JhGE    
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_fnUzU8gVAM99aaq1G7B424qgxKFm/JdSEdSsxQU   
       - name: hb119 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_uqx6A0APn1LpT6Sxk33J4Wvqxhb4/7rSYa0JhGE    
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_fnUzU8gVAM99aaq1G7B424qgxKFm/JdSEdSsxQU   
       - name: hb120 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_JulzKSBblhDTy45jBRMdNOYNDtwG/9USEwHt1QH
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_t3eRWpS5OsWCmMqLM2V4KYQv7fq3/qwXOk18rC9 
       - name: hb120 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_JulzKSBblhDTy45jBRMdNOYNDtwG/9USEwHt1QH
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_t3eRWpS5OsWCmMqLM2V4KYQv7fq3/qwXOk18rC9 
