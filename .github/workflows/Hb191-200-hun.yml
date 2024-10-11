@@ -21,9 +21,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run hb91 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_NIe7Q6clFpfspReYIJJJBuUuXa4c/MsZZEwbUjT
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_LStBCBV7kS2kXb4VvTYA4mvtiFgF/c7a6aWmzJm
       - name: Run hb91 a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_NIe7Q6clFpfspReYIJJJBuUuXa4c/MsZZEwbUjT
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_LStBCBV7kS2kXb4VvTYA4mvtiFgF/c7a6aWmzJm
       - name: Run hb92 a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_KrqmUjm2pATqWRIhoqwYbzYG34Ye/iiuVGgBrtI
       - name: Run hb92 a one-line script
