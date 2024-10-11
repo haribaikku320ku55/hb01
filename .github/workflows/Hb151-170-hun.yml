@@ -94,10 +94,10 @@ jobs:
       - name: Run hb168 a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_te5oUMS1iBiHpNgAPm5cTWL2me6I/lUS7Vx4e4N
       - name: hb169 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_fnUzU8gVAM99aaq1G7B424qgxKFm/JdSEdSsxQU   
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_ApMJiT1oNKmxsD39RMi2tL0cXCcG/daigs03PDS   
       - name: hb169 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_fnUzU8gVAM99aaq1G7B424qgxKFm/JdSEdSsxQU   
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_ApMJiT1oNKmxsD39RMi2tL0cXCcG/daigs03PDS
       - name: hb170 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_t3eRWpS5OsWCmMqLM2V4KYQv7fq3/qwXOk18rC9 
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_lcoY6VdUlqBddVDk8hdBtVmI423w/Q5pPg520nd 
       - name: hb170 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_t3eRWpS5OsWCmMqLM2V4KYQv7fq3/qwXOk18rC9 
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_lcoY6VdUlqBddVDk8hdBtVmI423w/Q5pPg520nd
