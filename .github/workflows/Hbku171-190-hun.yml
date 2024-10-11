@@ -1,4 +1,4 @@
-name: Hb171-190-hun
+name: Hbku171-190-hun
 on:  
   push:
   pull_request:
@@ -94,9 +94,9 @@ jobs:
       - name: Run hb188 a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_sTkwz4bHRwIXsDpShFaMhAH0Be0w/lqFOE58wvx
       - name: hb189 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_fnUzU8gVAM99aaq1G7B424qgxKFm/JdSEdSsxQU   
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_Oxq0L63XXxfAU2zPCCeatrFhYZDl/ODvaLk5OPw  
       - name: hb189 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_fnUzU8gVAM99aaq1G7B424qgxKFm/JdSEdSsxQU   
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_Oxq0L63XXxfAU2zPCCeatrFhYZDl/ODvaLk5OPw  
       - name: hb190 Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_mRQhYcZeNgcRJzskVLyX02lhmk4s/KT2wtupZHb
       - name: hb190 Run a one-line script
